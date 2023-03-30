@@ -51,7 +51,7 @@ public class Server  extends JFrame {
                     getStreams();
                     processConnection();
                 } catch (EOFException eofException) {
-                    displayMessage("#nServer terminated connection");
+                    displayMessage("\nServer terminated connection");
                 } finally {
                     closeConnection();
                     ++counter;
