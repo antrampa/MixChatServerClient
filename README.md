@@ -5,7 +5,7 @@ Custom Client Server chat application in Java - MixChat
 ![image](https://user-images.githubusercontent.com/12392300/228966244-d9fd3408-7ef2-44ba-b8dc-673facb41a84.png)
 
 Download jar file: 
-<a href="https://drive.google.com/file/d/1SrMku12D2zwwbc0oVs65XMoFVjDH-PI0/view?usp=share_link">MixChatServer</a> and
+<a href="https://drive.google.com/file/d/1sKk8xJqOCcSxzm5v7hdFvjEr3Uoje4W3/view?usp=share_link">MixChatServer</a> and
 <a href="https://drive.google.com/file/d/1SrMku12D2zwwbc0oVs65XMoFVjDH-PI0/view?usp=share_link">MixChatClient</a>
 
 
