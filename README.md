@@ -6,8 +6,7 @@ Custom Client Server chat application in Java - MixChat
 
 Download jar file: 
 <a href="https://drive.google.com/file/d/1sKk8xJqOCcSxzm5v7hdFvjEr3Uoje4W3/view?usp=share_link">MixChatServer</a> and
-<a href="https://drive.google.com/file/d/1SrMku12D2zwwbc0oVs65XMoFVjDH-PI0/view?usp=share_link">MixChatClient</a> 
-
+<a href="https://drive.google.com/file/d/1Rn52-FghMi2SRA1f9hNqbILDhERCaibJ/view?usp=sharing">MixChatClient</a> 
 
 How to run: 
 java -jar MixChatServer-1.0-SNAPSHOT.jar 
